@@ -1,0 +1,4 @@
+In this case study I conduct an RFM analysis. 
+RFM Analysis is used to understand and segment customers based on their buying behaviour. RFM stands for recency, frequency, and monetary value, which are three key metrics that provide information about customer engagement, loyalty, and value to a business. RFM is a concept that is used in marketing to understand and segment customers based on their buying behaviour. In this analysis, I was able to determine the recency (the data the customers made their last purchase), frequency (how often they made the purchases) and the monetary value (which is the amount spent on purchases). 
+Using Python Libraries (Numpy and Pandas), I was able to analyse and determine customer segments based on buying behaviour as visualized using Plotly and the Python Framework, Dash. 
+A dataset including the customer IDs, purchase dates and transaction amounts was used. The dataset was retrieved from RFM Analysis: Case Study | Statso 
